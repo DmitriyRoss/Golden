@@ -1,0 +1,9 @@
+hero= 1h30min
+services = 40min
+portfolio = 20min
+about = 23min
+team = 25min
+envato = 13min
+contacts = 50min, не сделал формы
+footer = 20 min
+Всего: 4+ часа
