@@ -104,12 +104,14 @@
    color: #32d296;
    border-color: #32d296;
  }
-.form-item {
+.form-input {
   width: 455px;
   height: 51px;
   border: 1px solid #cccccc;
   background-color: #ffffff;
   margin-bottom: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
 }
 
 .textarea-contact2 {
@@ -117,5 +119,11 @@ width: 455px;
 height: 210px;
 border: 1px solid #cccccc;
 background-color: #ffffff;
+padding-top: 10px;
+padding-left: 10px;
+}
+
+.form-row {
+  width: 50%;
 }
  

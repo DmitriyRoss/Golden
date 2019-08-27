@@ -120,19 +120,22 @@
   margin-top: 40px;
 }
 
-.col {
+.coll {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 100px;
 }
 
+.colll {
+  width: 50%;
+}
 
 .column {
   margin-top: 80px;
 }
 
-.col:nth-child(2n+1) {
+.coll:nth-child(2n+1) {
   flex-direction: row-reverse;
 }
 
